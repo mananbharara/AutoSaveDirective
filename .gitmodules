@@ -1,3 +1,3 @@
-[submodule "lib"]
-	path = lib
+[submodule "indexed-db"]
+	path = indexed-db
 	url = git@github.com:mananbharara/IndexedDB.git
