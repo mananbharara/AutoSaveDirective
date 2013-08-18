@@ -1,0 +1,3 @@
+[submodule "IndexedDB"]
+	path = IndexedDB
+	url = git@github.com:mananbharara/IndexedDB.git
